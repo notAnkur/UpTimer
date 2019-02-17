@@ -1,0 +1,10 @@
+tokens.json
+token.json
+config.json
+node_modules/
+.cache
+.config
+.npm
+.vim
+.viminfo
+.bash_history
